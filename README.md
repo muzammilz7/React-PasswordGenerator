@@ -15,7 +15,7 @@ Crafted as an interactive web app, this password generator is created using Reac
 * Select all checkboxes that you need
 * Create Password, your password will be shown below
 
-https://github.com/muzammilz7/React-PasswordGenerator/assets/133916565/5f096838-0ad0-4fb0-b01a-db1cba7a4299)
+![passwordpic#1](https://github.com/muzammilz7/React-PasswordGenerator/assets/133916565/21c4132e-ca7a-49b5-aab0-e08c017f28b7)
 
-https://github.com/muzammilz7/React-PasswordGenerator/assets/133916565/430503bf-f2df-4486-b5cf-71194d84ce62)
 
+![passwordpic#2](https://github.com/muzammilz7/React-PasswordGenerator/assets/133916565/75fc7ea4-65a1-4047-bbd8-9829e5764787)
