@@ -15,6 +15,6 @@ Crafted as an interactive web app, this password generator is created using Reac
 * Select all checkboxes that you need
 * Create Password, your password will be shown below
 
-![Password Generator Screenshot](passwordpic#1.png)
+![Password Generator Screenshot](./images/passwordpic#1.png)
 
-![Password Generator Screenshot](passwordpic#2.png)
+![Password Generator Screenshot](./images/passwordpic#2.png)
