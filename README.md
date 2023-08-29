@@ -1,6 +1,6 @@
 # React Password Generator
 
-## A fully functional program which creates secure passwords with ease.
+## A fully functional program that creates secure passwords with ease.
 
 Crafted as an interactive web app, this password generator is created using React, combined with HTML and CSS, providing an excellent user experience. 
 
@@ -10,7 +10,7 @@ Crafted as an interactive web app, this password generator is created using Reac
 * Error Handling: Checks for various wrong inputs users may enter like a password length of 0 and below or not pressing any of the checkboxes.
 
 ### How to Use Project
-* Open the web app
+* Open the web app :arrow_right: https://react-password-generator-sable.vercel.app
 * Enter the correct password length at the top
 * Select all checkboxes that you need
 * Create Password, your password will be shown below
